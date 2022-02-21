@@ -1,3 +1,5 @@
+package A.Team;
+
 
 import java.util.Scanner;
 
